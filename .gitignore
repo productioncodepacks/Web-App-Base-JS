@@ -1,0 +1,11 @@
+# ignore swap files
+*.swp
+
+# ignore package lock file
+package-lock.json
+
+# ignore node modules installed with npm
+node_modules
+
+# ignore compiled Next.js app
+.next

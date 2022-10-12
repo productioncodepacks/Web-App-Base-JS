@@ -1,0 +1,21 @@
+/* Vertical space classes that are required globally. */
+
+.vertical8 {
+  width: 100%;
+  height: 8px;
+}
+
+.vertical16 {
+  width: 100%;
+  height: 16px;
+}
+
+.vertical32 {
+  width: 100%;
+  height: 32px;
+}
+
+.vertical64 {
+  width: 100%;
+  height: 64px;
+}
